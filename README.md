@@ -17,7 +17,7 @@ Aplicación de billetera digital para Android, desarrollada en Java con Android 
 - **Inicio de sesión** — Formulario con validación de campos (correo y contraseña requeridos).
 - **Registro de cuenta** — Formulario con nombre, correo, contraseña y confirmación de contraseña. Valida que los campos estén completos y que las contraseñas coincidan.
 - **Pantalla de inicio (Home)** — Muestra el balance total del usuario, botones para enviar y recibir dinero, y acceso al perfil.
-- **Enviar dinero** — Pantalla para ingresar el monto y el motivo de la transferencia, con opción de agregar un mensaje.
+- **Enviar dinero** — Pantalla para ingresar el monto y el motivo de la transferencia.
 - **Recibir dinero** — Pantalla para gestionar la recepción de fondos.
 - **Perfil de usuario** — Vista con información personal, tarjetas, opciones y centro de ayuda.
 
